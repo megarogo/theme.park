@@ -71,7 +71,7 @@
           "css": [
             "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
             "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-            "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
+            "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=4361dac546afaa309ddef7f0215be592d47ae1ba",
             "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/green.css?sha=ecc3fb8c7fb720609886208e0c4de2a870fd2cda",
             "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
             "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
@@ -434,7 +434,7 @@
             "css": [
               "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
               "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-              "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
+              "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=4361dac546afaa309ddef7f0215be592d47ae1ba",
               "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/green.css?sha=ecc3fb8c7fb720609886208e0c4de2a870fd2cda",
               "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
               "https://megarogo.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
