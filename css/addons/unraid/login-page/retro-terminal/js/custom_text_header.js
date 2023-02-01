@@ -6,14 +6,12 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>                                                                                                                          
- ______                                  ______        _                       
-(______)                                (_____ \      | |                      
- _     _ ____ _____  ____  ___  ____     _____) )_____| |__   ___   ____ ____  
-| |   | / ___|____ |/ _  |/ _ \|  _ \   |  __  /| ___ |  _ \ / _ \ / ___)  _ \ 
-| |__/ / |   / ___ ( (_| | |_| | | | |  | |  \ \| ____| |_) ) |_| | |   | | | |
-|_____/|_|   \_____|\___ |\___/|_| |_|  |_|   |_|_____)____/ \___/|_|   |_| |_|
-                   (_____|
-                                                                               </pre> </div>
+<div class="custom-text-header"> <pre>    dMMMMb  dMMMMb  .aMMMb  .aMMMMP .aMMMb  dMMMMb         dMMMMb  dMMMMMP dMMMMb  .aMMMb  dMMMMb  dMMMMb 
+   dMP VMP dMP.dMP dMP"dMP dMP"    dMP"dMP dMP dMP        dMP.dMP dMP     dMP"dMP dMP"dMP dMP.dMP dMP dMP 
+  dMP dMP dMMMMK" dMMMMMP dMP MMP"dMP dMP dMP dMP        dMMMMK" dMMMP   dMMMMK" dMP dMP dMMMMK" dMP dMP  
+ dMP.aMP dMP"AMF dMP dMP dMP.dMP dMP.aMP dMP dMP        dMP"AMF dMP     dMP.aMF dMP.aMP dMP"AMF dMP dMP   
+dMMMMP" dMP dMP dMP dMP  VMMMP"  VMMMP" dMP dMP        dMP dMP dMMMMMP dMMMMP"  VMMMP" dMP dMP dMP dMP    
+                                                                                                            
+                                                                 </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
