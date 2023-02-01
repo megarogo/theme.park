@@ -7,11 +7,11 @@
 
 let custom_text_header = `
 <div class="custom-text-header"> <pre>
-   ___                            ___      __               
-  / _ \_______ ____ ____  ___    / _ \___ / /  ___  _______ 
- / // / __/ _ `/ = `/ _ \/ _ \  / , _/ -_) _ \/ _ \/ __/ _ \
-/____/_/  \_,_/\_, /\___/_//_/ /_/|_|\__/_.__/\___/_/ /_//_/
-              /___/                                           
+     dBBBBb dBBBBBb dBBBBBb     dBBBBb  dBBBBP dBBBBb     dBBBBBb    dBBBP dBBBBb   dBBBBP dBBBBBb    dBBBBb
+        dB'     dBP      BB            dBP.BP     dBP         dBP             dBP  dBP.BP      dBP       dBP
+   dBP dB'  dBBBBK   dBP BB   dBBBB   dBP.BP dBP dBP      dBBBBK'  dBBP   dBBBK'  dBP.BP   dBBBBK   dBP dBP 
+  dBP dB'  dBP  BB  dBP  BB  dB' BB  dBP.BP dBP dBP      dBP  BB  dBP    dB' db  dBP.BP   dBP  BB  dBP dBP  
+ dBBBBB'  dBP  dB' dBBBBBBB dBBBBBB dBBBBP dBP dBP      dBP  dB' dBBBBP dBBBBP' dBBBBP   dBP  dB' dBP dBP 
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
