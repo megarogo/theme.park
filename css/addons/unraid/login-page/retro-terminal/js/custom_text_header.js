@@ -6,12 +6,12 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>    dMMMMb  dMMMMb  .aMMMb  .aMMMMP .aMMMb  dMMMMb         dMMMMb  dMMMMMP dMMMMb  .aMMMb  dMMMMb  dMMMMb 
-   dMP VMP dMP.dMP dMP"dMP dMP"    dMP"dMP dMP dMP        dMP.dMP dMP     dMP"dMP dMP"dMP dMP.dMP dMP dMP 
-  dMP dMP dMMMMK" dMMMMMP dMP MMP"dMP dMP dMP dMP        dMMMMK" dMMMP   dMMMMK" dMP dMP dMMMMK" dMP dMP  
- dMP.aMP dMP"AMF dMP dMP dMP.dMP dMP.aMP dMP dMP        dMP"AMF dMP     dMP.aMF dMP.aMP dMP"AMF dMP dMP   
-dMMMMP" dMP dMP dMP dMP  VMMMP"  VMMMP" dMP dMP        dMP dMP dMMMMMP dMMMMP"  VMMMP" dMP dMP dMP dMP    
-                                                                                                            
+<div class="custom-text-header"> <pre>        ____                                  ____       __                   
+   / __ \_________ _____ _____  ____     / __ \___  / /_  ____  _________ 
+  / / / / ___/ __ `/ __ `/ __ \/ __ \   / /_/ / _ \/ __ \/ __ \/ ___/ __ \
+ / /_/ / /  / /_/ / /_/ / /_/ / / / /  / _, _/  __/ /_/ / /_/ / /  / / / /
+/_____/_/   \__,_/\__, /\____/_/ /_/  /_/ |_|\___/_.___/\____/_/  /_/ /_/ 
+                 /____/                                                     
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
